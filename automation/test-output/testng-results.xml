@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20964" started-at="2019-03-10T05:07:00Z" finished-at="2019-03-10T05:07:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20964" started-at="2019-03-10T05:07:00Z" finished-at="2019-03-10T05:07:21Z">
+      <class name="automation.flow.scenario.automationflow">
+        <test-method status="PASS" signature="OpenURL()[pri:1, instance:automation.flow.scenario.automationflow@357246de]" name="OpenURL" duration-ms="9309" started-at="2019-03-10T10:37:00Z" finished-at="2019-03-10T10:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method status="PASS" signature="ValidateSigninbutton()[pri:2, instance:automation.flow.scenario.automationflow@357246de]" name="ValidateSigninbutton" duration-ms="1188" started-at="2019-03-10T10:37:10Z" finished-at="2019-03-10T10:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSigninbutton -->
+        <test-method status="PASS" signature="Numberofbannerscount()[pri:3, instance:automation.flow.scenario.automationflow@357246de]" name="Numberofbannerscount" duration-ms="2647" started-at="2019-03-10T10:37:11Z" finished-at="2019-03-10T10:37:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Numberofbannerscount -->
+        <test-method status="PASS" signature="ValidLogin()[pri:4, instance:automation.flow.scenario.automationflow@357246de]" name="ValidLogin" duration-ms="5263" started-at="2019-03-10T10:37:14Z" finished-at="2019-03-10T10:37:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method status="PASS" signature="ChangePINCode()[pri:5, instance:automation.flow.scenario.automationflow@357246de]" name="ChangePINCode" duration-ms="2507" started-at="2019-03-10T10:37:19Z" finished-at="2019-03-10T10:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangePINCode -->
+      </class> <!-- automation.flow.scenario.automationflow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
